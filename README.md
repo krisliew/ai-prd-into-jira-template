@@ -2,7 +2,7 @@
 
 Greetings! This repository provides a collection of markdown files designed to assist you in creating PRDs and Jira Tickets with AI-powered IDEs and CLIs. These tools work with any AI coding assistant.
 
-For product owner/manager to generate ready-copy-paste Product Requirements Document (PRD) to confluence and Jira tickets.
+For product owner/manager and developer to generate ready-copy-paste Product Requirements Document (PRD) to confluence and Jira tickets.
 
 ## Workflow: From Idea to Implemented Feature
 
