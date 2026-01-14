@@ -4,7 +4,7 @@ Greetings! This repository provides a collection of markdown files designed to a
 
 For product owner/manager and developer to generate ready-copy-paste Product Requirements Document (PRD) to confluence and Jira tickets.
 
-## Workflow: From Idea to Implemented Feature
+## Workflow
 
 Here's the step-by-step process using the `.md` files in this repository:
 
